@@ -4,6 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+The final result can be seen over here:
+### `https://vinecreeper888.github.io/hacker-stories/`
+
 In the project directory, you can run:
 
 ### `yarn start`
